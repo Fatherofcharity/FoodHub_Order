@@ -1,6 +1,6 @@
-# Project Python Foundations: FoodHub Data Analysis
+# FoodHub Data Analysis
 
-# By KAUDA AYODELE JIMOH
+## By KAUDA AYODELE JIMOH
 
 ### Context
 
